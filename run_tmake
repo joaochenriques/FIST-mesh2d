@@ -1,0 +1,1 @@
+tmake -unix tmake.pro > makefile
